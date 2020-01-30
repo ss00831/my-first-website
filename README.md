@@ -1,6 +1,10 @@
+# My very first Web page!
+
+Welcome!
+
 # Code Institute
 
-Welcome USER_NAME,
+Welcome ss00831,
 
 We have preinstalled all of the tools you need to get started.
 
